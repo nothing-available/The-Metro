@@ -12,12 +12,12 @@ Main.java contains all the primary code and Heap.java includes heap implementati
 The project can run on any online or offline Integrated Development Environment (IDE) like Eclipse, Netbeans, ideone.Com, and so forth. You need to have at the least standard knowledge of Java Programming language to work on the task. Knowledge of data structures like Graph and Heap and Algorithms like Dijkstra, BFS, DFS, and so forth is liked, however, it isn't crucial. And finally, some knowledge of the Collection framework makes it a cakewalk adventure. (If you don't know approximately the Collection framework it isn't a hassle, you can continue without it, and at the same time as running if you experience the want to realize you can discuss it with.
 
 # Collection framework used in this project
-### In smt_graph.java
+### In heap.cpp
 * ArrayList
 * LinkedList
 * Stack
 * HashMap
-### In smt_heap.java
+### In bfs_graph.cpp
 * HashMap
 * ArrayList
 
